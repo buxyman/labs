@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<SourcePath>D:\SourceDir</SourcePath>
+	<TargetPath>D:\TargetDir</TargetPath>
+	<LogsPath>D:\templog.txt</LogsPath>	
+	<ExeptionsLogPath>D:\exeptionslog.txt</ExeptionsLogPath>
+	<NeedToEncrypt>true</NeedToEncrypt>
+	<NeedToArchive>true</NeedToArchive>
+	<ArchivePath>D:\TargetDir\archive</ArchivePath>
+</Settings>
+© 2020 GitHub, Inc.

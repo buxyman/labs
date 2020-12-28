@@ -1,0 +1,8 @@
+{
+  "ConnectionString": "Data Source=BY-NODE\\SQLS;Initial Catalog=AdventureWorks2019;Integrated Security=True",
+  "StoreProcedure": "Sales.getStore_byName",
+  "EntityContactProcedure": "Person.getBusinessEntityContact_byID",
+  "PersonNamesProcedure": "Person.getPerson_byBEID",
+  "PersonEmailProcedure": "Person.getEmail_byBEID",
+  "PersonPhoneProcedure": "Person.getPhone_byBEID"
+}

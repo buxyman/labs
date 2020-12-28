@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Opt>
+  <SourceDirectory>D:\labs\lab3\SourceDirectory</SourceDirectory>
+  <TargetDirectory>D:\labs\lab3\TargetDirectory</TargetDirectory>
+  <LogDirectory>D:\labs\lab3\TargetDirectory\log.txt</LogDirectory>
+</Opt>
